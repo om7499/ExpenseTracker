@@ -1,8 +1,11 @@
-# React + Vite
+Features:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Add, edit, and delete your expenses to keep track of your spending.
 
-Currently, two official plugins are available:
+Search and filter expenses to find specific records quickly.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+View a budget summary and monitor your financial health.
+
+Real-time alerts (using Toast notifications) when expenses exceed the allocated budget.
+
+Data Persistence: All data is stored in localStorage, ensuring your information is saved even when you reload the application.
